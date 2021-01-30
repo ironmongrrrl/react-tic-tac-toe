@@ -1,3 +1,7 @@
+# Welcome to my Tic Tac Toe App!
+
+Simply a way to practice React for the first time, in preparation for studying it at Manchester Codes.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
